@@ -1,0 +1,95 @@
+body {
+  background-color: wheat;
+}
+
+*{
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+h1 {
+  margin-top: 30px;
+}
+
+div {
+  background-color: palevioletred;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 20px;
+}
+
+h2 {
+  font-size: 23px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+p {
+  font-size: 14px;
+  margin-top: 12px;
+  margin-left: 25px; 
+}
+
+.dns {
+  background-color: rgb(202, 97, 97);
+  margin-left: 20px;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+
+.http {
+  background-color: rgb(97, 202, 141);
+  margin-left: 20px;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.responseAndRequests {
+  background-color: rgb(135, 202, 97);
+  margin-left: 20px;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.htmlAndCSSAndJavaScript {
+  background-color: rgb(202, 97, 97);
+  margin-left: 20px;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.CriticalRenderingPath {
+  background-color: rgb(128, 97, 202);
+  margin-left: 20px;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.BrowserDev {
+  background-color: rgb(202, 97, 184);
+  margin-left: 20px;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
